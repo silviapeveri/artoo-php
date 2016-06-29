@@ -1,0 +1,115 @@
+[29-Jun-2016 09:26:31 UTC] PHP Warning:  include_once(./objects/user.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:26:31 UTC] PHP Stack trace:
+[29-Jun-2016 09:26:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:26:31 UTC] PHP Warning:  include_once(): Failed opening './objects/user.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:26:31 UTC] PHP Stack trace:
+[29-Jun-2016 09:26:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:26:31 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:26:31 UTC] PHP Stack trace:
+[29-Jun-2016 09:26:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:27:30 UTC] PHP Warning:  include_once(./day2/objects/user.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:27:30 UTC] PHP Stack trace:
+[29-Jun-2016 09:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:27:30 UTC] PHP Warning:  include_once(): Failed opening './day2/objects/user.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:27:30 UTC] PHP Stack trace:
+[29-Jun-2016 09:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:27:30 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:27:30 UTC] PHP Stack trace:
+[29-Jun-2016 09:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:28:13 UTC] PHP Warning:  include_once(./objects/user.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:28:13 UTC] PHP Stack trace:
+[29-Jun-2016 09:28:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:28:13 UTC] PHP Warning:  include_once(): Failed opening './objects/user.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:28:13 UTC] PHP Stack trace:
+[29-Jun-2016 09:28:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:28:13 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:28:13 UTC] PHP Stack trace:
+[29-Jun-2016 09:28:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:28:53 UTC] PHP Warning:  include_once(./objects/User.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:28:53 UTC] PHP Stack trace:
+[29-Jun-2016 09:28:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:28:53 UTC] PHP Warning:  include_once(): Failed opening './objects/User.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:28:53 UTC] PHP Stack trace:
+[29-Jun-2016 09:28:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:28:53 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:28:53 UTC] PHP Stack trace:
+[29-Jun-2016 09:28:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:32:18 UTC] PHP Warning:  include_once(./objects/User.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:32:18 UTC] PHP Stack trace:
+[29-Jun-2016 09:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:32:18 UTC] PHP Warning:  include_once(): Failed opening './objects/User.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:32:18 UTC] PHP Stack trace:
+[29-Jun-2016 09:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:32:18 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:32:18 UTC] PHP Stack trace:
+[29-Jun-2016 09:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:32:28 UTC] PHP Warning:  include_once(./objects/User.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:32:28 UTC] PHP Stack trace:
+[29-Jun-2016 09:32:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:32:28 UTC] PHP Warning:  include_once(): Failed opening './objects/User.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:32:28 UTC] PHP Stack trace:
+[29-Jun-2016 09:32:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:32:28 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:32:28 UTC] PHP Stack trace:
+[29-Jun-2016 09:32:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:33:25 UTC] PHP Warning:  include_once(php-artoo/objects/User.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:33:25 UTC] PHP Stack trace:
+[29-Jun-2016 09:33:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:33:25 UTC] PHP Warning:  include_once(): Failed opening 'php-artoo/objects/User.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:33:25 UTC] PHP Stack trace:
+[29-Jun-2016 09:33:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:33:25 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:33:25 UTC] PHP Stack trace:
+[29-Jun-2016 09:33:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:34:10 UTC] PHP Warning:  include_once(/objects/User.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:34:10 UTC] PHP Stack trace:
+[29-Jun-2016 09:34:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:34:10 UTC] PHP Warning:  include_once(): Failed opening '/objects/User.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:34:10 UTC] PHP Stack trace:
+[29-Jun-2016 09:34:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:34:10 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:34:10 UTC] PHP Stack trace:
+[29-Jun-2016 09:34:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:34:19 UTC] PHP Warning:  include_once(objects/User.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:34:19 UTC] PHP Stack trace:
+[29-Jun-2016 09:34:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:34:19 UTC] PHP Warning:  include_once(): Failed opening 'objects/User.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/day 2/objects/test1.php on line 2
+[29-Jun-2016 09:34:19 UTC] PHP Stack trace:
+[29-Jun-2016 09:34:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:34:19 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 4
+[29-Jun-2016 09:34:19 UTC] PHP Stack trace:
+[29-Jun-2016 09:34:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:37:35 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/day 2/objects/test1.php on line 9
+[29-Jun-2016 09:40:22 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/day 2/objects/test1.php on line 10
+[29-Jun-2016 09:40:22 UTC] PHP Stack trace:
+[29-Jun-2016 09:40:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:42:26 UTC] PHP Fatal error:  Cannot access private property User::$username in /home/ubuntu/workspace/day 2/objects/test1.php on line 5
+[29-Jun-2016 09:42:26 UTC] PHP Stack trace:
+[29-Jun-2016 09:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:52:25 UTC] PHP Fatal error:  Cannot access private property User::$username in /home/ubuntu/workspace/day 2/objects/test1.php on line 5
+[29-Jun-2016 09:52:25 UTC] PHP Stack trace:
+[29-Jun-2016 09:52:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:52:46 UTC] PHP Fatal error:  Cannot access private property User::$username in /home/ubuntu/workspace/day 2/objects/test1.php on line 5
+[29-Jun-2016 09:52:46 UTC] PHP Stack trace:
+[29-Jun-2016 09:52:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 09:52:48 UTC] PHP Fatal error:  Cannot access private property User::$username in /home/ubuntu/workspace/day 2/objects/test1.php on line 5
+[29-Jun-2016 09:52:48 UTC] PHP Stack trace:
+[29-Jun-2016 09:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 10:02:13 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/day 2/objects/UserEmail.php on line 2
+[29-Jun-2016 10:02:13 UTC] PHP Stack trace:
+[29-Jun-2016 10:02:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/UserEmail.php:0
+[29-Jun-2016 10:05:09 UTC] PHP Fatal error:  Class 'UserEmail' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 15
+[29-Jun-2016 10:05:09 UTC] PHP Stack trace:
+[29-Jun-2016 10:05:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 10:05:10 UTC] PHP Fatal error:  Class 'UserEmail' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 15
+[29-Jun-2016 10:05:10 UTC] PHP Stack trace:
+[29-Jun-2016 10:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 10:05:13 UTC] PHP Fatal error:  Class 'UserEmail' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 15
+[29-Jun-2016 10:05:13 UTC] PHP Stack trace:
+[29-Jun-2016 10:05:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 10:05:39 UTC] PHP Fatal error:  Class 'UserEmail' not found in /home/ubuntu/workspace/day 2/objects/test1.php on line 15
+[29-Jun-2016 10:05:39 UTC] PHP Stack trace:
+[29-Jun-2016 10:05:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
+[29-Jun-2016 10:18:16 UTC] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/ubuntu/workspace/day 2/objects/test1.php on line 22
+[29-Jun-2016 10:18:16 UTC] PHP Stack trace:
+[29-Jun-2016 10:18:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/day 2/objects/test1.php:0
